@@ -28,7 +28,7 @@ To compile and run this application:
 
 1.  **Navigate to the `src` directory:**
     ```bash
-    cd D:\Rafi Work\Smart Task Manager\src
+    cd D:\Work\Smart Task Manager\src
     ```
 2.  **Compile the Java files:**
     ```bash
@@ -36,7 +36,7 @@ To compile and run this application:
     ```
 3.  **Run the application:**
     ```bash
-    java com.smarttaskmanager.main.Main
+    java com.smarttaskmanager.Main
     ```
 
 Follow the on-screen menu to interact with the Smart Task Manager.
