@@ -32,7 +32,7 @@ To compile and run this application:
     ```
 2.  **Compile the Java files:**
     ```bash
-    javac com/smarttaskmanager/main/*.java com/smarttaskmanager/model/*.java com/smarttaskmanager/service/*.java com/smarttaskmanager/exception/*.java
+    javac com/smarttaskmanager/*.java com/smarttaskmanager/model/*.java com/smarttaskmanager/service/*.java com/smarttaskmanager/exception/*.java
     ```
 3.  **Run the application:**
     ```bash
